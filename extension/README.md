@@ -12,3 +12,6 @@ Fundamental extensions for all uses
 
 Your AI pair programmer
 
+### GitHub Copilot Labs [GitHub.copilot-labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+
+Experimental features for GitHub Copilot

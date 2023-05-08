@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - GitHub Copilot [GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- GitHub Copilot Labs [GitHub.copilot-labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+
 ## [1.0.0]
 
 ### Added
