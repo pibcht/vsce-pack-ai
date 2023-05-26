@@ -16,5 +16,8 @@
   "homepage": "https://github.com/pibcht/vsce-pack-ai",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-ai.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-ai/issues" },
-  "extensionPack": [ "pibcht.pack-core", "GitHub.copilot", "GitHub.copilot-labs" ]
+  "extensionPack": [
+    "pibcht.pack-core", "GitHub.copilot", "GitHub.copilot-chat", 
+    "GitHub.copilot-labs"
+  ]
 }
