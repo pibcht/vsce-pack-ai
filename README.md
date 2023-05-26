@@ -9,6 +9,7 @@
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 - [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
 
 ### Liens
