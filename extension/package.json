@@ -1,0 +1,23 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-ai",
+  "version": "1.3.0",
+  "engines": { "vscode": "^1.77.0" },
+  "categories": [ "Extension Packs" ],
+  "displayName": "Pi Pack • AI",
+  "description": "Set of extensions to take advantage of Artificial Intelligence",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "Azure", "Bundle", "Dev", "Functions App", "Fundamental", "Init", "Optimize", 
+    "Powertools", "Productivity", "Toolbox"
+  ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
+  "homepage": "https://github.com/pibcht/vsce-pack-ai",
+  "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-ai.git" },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-ai/issues" },
+  "extensionPack": [
+    "pibcht.pack-core", "GitHub.copilot", "GitHub.copilot-chat", 
+    "GitHub.copilot-labs"
+  ]
+}
