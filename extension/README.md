@@ -12,10 +12,6 @@ Fundamental extensions for all uses
 
 Your AI pair programmer
 
-### GitHub Copilot Chat [GitHub.copilot-chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-
-AI chat features powered by Copilot
-
 ### GitHub Copilot Labs [GitHub.copilot-labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
 
 Experimental features for GitHub Copilot
